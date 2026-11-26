@@ -33,37 +33,49 @@ The research pipeline integrates empirical baseline calibration with two origina
 
 ### 2.1 Empirical Baseline Motivation
 To anchor the neuroethical inquiry in measured behavioral reality, the framework synthesizes two large-scale empirical benchmarks:
-1. **Counterfactual Learning Trajectory Benchmark ($N = 4,200$):** Derived from 88 randomized controlled trials in primary mathematics across 24 Knowledge Components, quantifying the **Performance–Learning Paradox** (immediate assistance boosts session score, but unassisted delayed retention collapses).
-2. **Multi-Agent Behavioral Stress Audit ($N = 900$ trajectories; 3,600 conversational turns):** Adversarial multi-turn evaluations using synthetic student personas (*Answer-Seeking*, *Frustrated / Low-Persistence*, and *Misconception-Driven*) testing commercial LLM pedagogical guardrail breakdown rates.
+1. **Counterfactual Learning Trajectory Benchmark (N = 4,200):** Derived from 88 randomized controlled trials in primary mathematics across 24 Knowledge Components, quantifying the **Performance–Learning Paradox** (immediate assistance boosts session score, but unassisted delayed retention collapses).
+2. **Multi-Agent Behavioral Stress Audit (N = 900 trajectories; 3,600 conversational turns):** Adversarial multi-turn evaluations using synthetic student personas (*Answer-Seeking*, *Frustrated / Low-Persistence*, and *Misconception-Driven*) testing commercial LLM pedagogical guardrail breakdown rates.
 
 ---
 
 ### 2.2 Simulation 1: Coupled EVC & Metacognitive Agency Dynamical Model
 This model couples Shenhav et al.'s **Expected Value of Control (EVC)** with a non-linear metacognitive agency drift equation to track executive effort allocation over developmental time:
 
-$$\text{EVC}(u) = \text{Objective Reward} - \text{Subjective Cost of Effort} = R \cdot P(\text{Success} \mid u, \omega) - \text{Cost}(u)$$
+```text
+EVC(u) = Objective Reward - Subjective Cost of Effort
+       = R · P(Success | u, ω) - Cost(u)
+```
 
 The system dynamics are defined by coupled differential equations:
-$$\frac{du}{dt} = \alpha_u \left( \frac{\partial \text{EVC}}{\partial u} \right) - \gamma_u u$$
-$$\frac{dA}{dt} = \beta_A u(t) - \delta_A \omega(t) A(t)$$
+
+```text
+du/dt = α_u · (∂EVC / ∂u) - γ_u · u
+dA/dt = β_A · u(t) - δ_A · ω(t) · A(t)
+```
 
 where:
-* $u(t) \in [0, 1]$ represents intrinsic prefrontal executive control effort.
-* $A(t) \in [0, 1]$ represents metacognitive agency and self-efficacy.
-* $\omega \in [0, 1]$ represents conversational AI offloading intensity.
-* A **global Monte Carlo sensitivity analysis ($N = 5,000$ draws)** samples the parameter space to detect tipping points and phase transitions.
+* `u(t) ∈ [0, 1]` represents intrinsic prefrontal executive control effort.
+* `A(t) ∈ [0, 1]` represents metacognitive agency and self-efficacy.
+* `ω ∈ [0, 1]` represents conversational AI offloading intensity.
+* A **global Monte Carlo sensitivity analysis (N = 5,000 draws)** samples the parameter space to detect tipping points and phase transitions.
 
 ---
 
 ### 2.3 Simulation 2: Bayesian Precautionary Value-of-Information (VoI) 3Rs Decision Model
-This model formulates an Institutional Review Board (IRB) gatekeeping calculus under **45 CFR 46 Subpart D** (minimal-risk protections for children). An IRB evaluates whether to expose a student cohort of size $N$ to an unverified conversational tutor with prior breakdown probability $p_0 = P(\text{Harmful}) = 49.33\%$:
+This model formulates an Institutional Review Board (IRB) gatekeeping calculus under **45 CFR 46 Subpart D** (minimal-risk protections for children). An IRB evaluates whether to expose a student cohort of size N to an unverified conversational tutor with prior breakdown probability `p_0 = P(Harmful) = 49.33%`:
 
-* **Direct In-Vivo Trial ($\mathcal{D}_{\text{in-vivo}}$):** Exposes children directly. Expected ethical loss:
-  $$\mathbb{E}[\text{Loss} \mid \mathcal{D}_{\text{in-vivo}}] = p_0 \cdot N \cdot C_{\text{harm}}$$
-* **In-Silico 3Rs Pre-Screening ($\mathcal{D}_{\text{in-silico}}$):** Conducts computational multi-agent stress audits prior to child exposure. With audit sensitivity $\text{Sens} = 0.85$ and specificity $\text{Spec} = 0.90$, Bayes' rule computes updated posterior risk $p_1 = P(\text{Harmful} \mid \text{Pass})$, releasing only vetted systems:
-  $$\mathbb{E}[\text{Loss} \mid \mathcal{D}_{\text{in-silico}}] = C_{\text{audit}} + P(\text{Pass}) \cdot p_1 \cdot N \cdot C_{\text{harm}}$$
+* **Direct In-Vivo Trial (D_in-vivo):** Exposes children directly. Expected ethical loss:
+  ```text
+  E[Loss | D_in-vivo] = p_0 · N · C_harm
+  ```
+* **In-Silico 3Rs Pre-Screening (D_in-silico):** Conducts computational multi-agent stress audits prior to child exposure. With audit sensitivity `Sens = 0.85` and specificity `Spec = 0.90`, Bayes' rule computes updated posterior risk `p_1 = P(Harmful | Pass)`, releasing only vetted systems:
+  ```text
+  E[Loss | D_in-silico] = C_audit + P(Pass) · p_1 · N · C_harm
+  ```
 * **Precautionary Value of Information (VoI):**
-  $$\text{VoI} = \mathbb{E}[\text{Loss} \mid \mathcal{D}_{\text{in-vivo}}] - \mathbb{E}[\text{Loss} \mid \mathcal{D}_{\text{in-silico}}]$$
+  ```text
+  VoI = E[Loss | D_in-vivo] - E[Loss | D_in-silico]
+  ```
 
 ---
 
@@ -75,21 +87,21 @@ The empirical benchmarks demonstrate severe delayed learning collapse and high v
 
 | Empirical Dimension | Friction-Preserving Scaffolding | Direct AI Answer Offloading | Statistical Significance / Effect Size |
 | :--- | :---: | :---: | :--- |
-| **In-Session Performance** | $68.4\%$ | $94.1\%$ | Artificial inflation during assisted use |
-| **Delayed Unassisted Post-Test (48h)** | **$63.0\%$** | **$34.2\%$** | **Collapse of unassisted competence ($d = 2.11$)** |
-| **Repeated-Measures ANOVA** | — | — | $F(2, 4197) = 4,613.27, p < .001, \eta_p^2 = 0.687$ |
-| **Response Latency Drift** | $\beta = +0.042$ (deliberative) | $\beta = -0.173$ (impulsive) | Deliberation cut by half ($p < .001$) |
-| **BKT Schema Retention ($L_n$)** | $83.4\%$ | $13.7\%$ | Bayesian model fit: $\Delta\text{BIC} = -24,740.7$ |
-| **Guardrailed LLM Breakdown (Turn 4)** | — | **$48.1\%$** | Catastrophic surrender under student pleading |
-| **Overall Guardrailed Failure Rate** | — | **$49.33\%$** | Mean Time-to-Offload ($\text{TTO} = 3.98$ turns) |
+| **In-Session Performance** | 68.4% | 94.1% | Artificial inflation during assisted use |
+| **Delayed Unassisted Post-Test (48h)** | **63.0%** | **34.2%** | **Collapse of unassisted competence (d = 2.11)** |
+| **Repeated-Measures ANOVA** | — | — | F(2, 4197) = 4,613.27, p < .001, η_p² = 0.687 |
+| **Response Latency Drift** | β = +0.042 (deliberative) | β = -0.173 (impulsive) | Deliberation cut by half (p < .001) |
+| **BKT Schema Retention (L_n)** | 83.4% | 13.7% | Bayesian model fit: ΔBIC = -24,740.7 |
+| **Guardrailed LLM Breakdown (Turn 4)** | — | **48.1%** | Catastrophic surrender under student pleading |
+| **Overall Guardrailed Failure Rate** | — | **49.33%** | Mean Time-to-Offload (TTO = 3.98 turns) |
 
 ---
 
 ### 3.2 Simulation 1 Results: Phase Transition & Bifurcation Analysis
 
-Global Monte Carlo simulations ($N = 5,000$ parameter draws) reveal that cognitive extension is non-monotonic: as offloading intensity crosses a sharp threshold, intrinsic cognitive effort collapses:
+Global Monte Carlo simulations (N = 5,000 parameter draws) reveal that cognitive extension is non-monotonic: as offloading intensity crosses a sharp threshold, intrinsic cognitive effort collapses:
 
-```
+```text
   Intrinsic Effort u*(t)
    1.0 ┼───────┐
        │       │  [ AUTHENTIC EXTENDED MIND ]
@@ -108,9 +120,9 @@ Global Monte Carlo simulations ($N = 5,000$ parameter draws) reveal that cogniti
                                                   │ 51.9% of phase space in cognitive debt
 ```
 
-* **Authentic Cognitive Scaffolding:** Sustained in only **$19.2\%$** of sampled parameter space.
-* **Epistemic Parasitism:** Dominates **$51.9\%$** of phase space, characterized by complete executive disengagement ($u \to 0, A \to 0$).
-* **Critical Bifurcation Threshold:** Occurs at $\mathbf{\omega_{\text{crit}} \approx 0.91}$, proving that unregulated offloading causes a non-linear phase collapse into cognitive debt.
+* **Authentic Cognitive Scaffolding:** Sustained in only **19.2%** of sampled parameter space.
+* **Epistemic Parasitism:** Dominates **51.9%** of phase space, characterized by complete executive disengagement (u → 0, A → 0).
+* **Critical Bifurcation Threshold:** Occurs at **ω_crit ≈ 0.91**, proving that unregulated offloading causes a non-linear phase collapse into cognitive debt.
 
 ---
 
@@ -118,13 +130,13 @@ Global Monte Carlo simulations ($N = 5,000$ parameter draws) reveal that cogniti
 
 Evaluating Bayesian gatekeeping across educational cohort scales proves that computational pre-screening dramatically eliminates ethical harm:
 
-| Educational Cohort Scale | Student Sample Size ($N$) | Direct Testing Loss $\mathbb{E}[\mathcal{D}_{\text{in-vivo}}]$ | 3Rs In-Silico Loss $\mathbb{E}[\mathcal{D}_{\text{in-silico}}]$ | Precautionary VoI ($C_{\text{harm}}$ units) | Harm Reduction ($\%$) |
+| Educational Cohort Scale | Student Sample Size (N) | Direct Testing Loss E[D_in-vivo] | 3Rs In-Silico Loss E[D_in-silico] | Precautionary VoI (C_harm units) | Harm Reduction (%) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Classroom Cohort** | $N = 25$ | $14.80$ | $4.22$ | **$+10.58$** | **$71.5\%$** |
-| **Grade Cohort** | $N = 120$ | $59.20$ | $10.89$ | **$+48.31$** | **$81.6\%$** |
-| **District Pilot** | $N = 1,000$ | $493.30$ | $76.00$ | **$+417.30$** | **$84.6\%$** |
+| **Classroom Cohort** | N = 25 | 14.80 | 4.22 | **+10.58** | **71.5%** |
+| **Grade Cohort** | N = 120 | 59.20 | 10.89 | **+48.31** | **81.6%** |
+| **District Pilot** | N = 1,000 | 493.30 | 76.00 | **+417.30** | **84.6%** |
 
-```
+```text
   Ethical Harm Reduction by In-Silico Pre-Screening (%)
   100% ┼─────────────────────────────────────────────────────────────
        │
