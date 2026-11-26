@@ -29,7 +29,7 @@ from pathlib import Path
 from PIL import Image
 
 PROJECT_DIR = Path(__file__).resolve().parent.parent
-FIGURES_DIR = PROJECT_DIR / "manuscript" / "springer_artwork"
+FIGURES_DIR = PROJECT_DIR / "manuscript"
 FIGURES_DIR.mkdir(parents=True, exist_ok=True)
 
 # Springer Nature Professional Typography (Clean Sans-Serif)

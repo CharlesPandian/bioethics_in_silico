@@ -41,7 +41,7 @@ ANON_PDF = MANUSCRIPT_DIR / "manuscript_anonymized.pdf"
 TITLE_TEX = MANUSCRIPT_DIR / "title_page.tex"
 TITLE_PDF = MANUSCRIPT_DIR / "title_page.pdf"
 BIB_FILE = MANUSCRIPT_DIR / "references.bib"
-ARTWORK_DIR = MANUSCRIPT_DIR / "springer_artwork"
+ARTWORK_DIR = MANUSCRIPT_DIR
 
 FORBIDDEN_IDENTIFIERS_TEX = [
     (r"\\author\*?(\[.*?\])?\{[^}]*Pandian[^}]*\}", "Author Byline with Pandian"),
@@ -319,7 +319,7 @@ def main():
             if not fpath.exists():
                 missing_art.append(fig)
         if not missing_art:
-            print(f"  ✓ All {len(expected_figs)} standardized vector PDF figures are present in springer_artwork/.")
+            print(f"  ✓ All {len(expected_figs)} standardized vector PDF figures are present in manuscript/.")
         else:
             print(f"  ✗ Missing artwork files: {missing_art}")
             all_passed = False

@@ -475,7 +475,7 @@ def build_graphical_abstract():
     # =============================================================
     # EXPORT VECTOR PDF
     # =============================================================
-    out_dir = Path("/home/jason/EdTechPaper1/project_bioethics_in_silico/manuscript/springer_artwork")
+    out_dir = Path("/home/jason/EdTechPaper1/project_bioethics_in_silico/manuscript")
     out_dir.mkdir(parents=True, exist_ok=True)
     
     pdf_path = out_dir / "graphical_abstract.pdf"
