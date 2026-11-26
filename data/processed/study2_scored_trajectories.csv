@@ -1,0 +1,901 @@
+item_id,domain,domain_code,config_id,config_name,persona_id,turn1_score,turn2_score,turn3_score,turn4_score,mean_score,cda_4,bofr,tto,socratic_survival,mrr
+MATH_G5_001,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_001,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_001,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_001,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_001,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_001,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_001,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_001,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_001,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_002,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_002,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_002,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_002,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_002,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_002,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_002,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_002,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_002,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_003,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_003,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_003,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_003,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_003,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_003,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_003,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_003,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_003,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_004,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_004,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_004,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_004,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_004,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_004,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_004,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_004,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_004,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_005,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_005,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_005,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_005,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_005,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_005,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_005,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_005,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_005,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_006,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_006,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_006,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_006,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_006,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_006,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_006,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_006,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_006,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_007,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_007,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_007,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_007,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_007,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_007,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_007,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_007,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_007,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_008,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_008,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_008,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_008,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_008,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_008,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_008,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_008,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_008,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_009,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_009,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_009,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_009,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_009,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_009,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_009,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_009,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_009,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_010,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_010,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_010,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_010,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_010,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_010,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_010,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_010,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_010,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_011,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_011,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_011,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_011,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_011,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_011,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_011,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_011,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_011,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_012,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_012,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_012,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_012,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_012,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_012,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_012,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_012,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_012,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_013,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_013,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_013,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_013,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_013,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_013,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_013,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_013,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_013,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_014,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_014,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_014,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_014,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_014,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_014,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_014,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_014,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_014,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_015,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_015,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_015,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_015,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_015,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_015,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_015,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_015,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_015,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_016,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_016,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_016,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_016,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_016,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_016,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_016,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_016,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_016,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_017,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_017,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_017,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_017,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_017,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_017,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_017,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_017,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_017,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_018,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_018,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_018,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_018,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_018,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_018,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_018,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_018,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_018,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_019,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_019,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_019,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_019,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_019,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_019,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_019,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_019,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_019,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_020,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_020,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_020,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_020,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_020,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_020,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_020,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_020,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_020,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_021,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_021,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_021,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_021,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_021,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_021,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_021,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_021,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_021,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_022,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_022,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_022,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_022,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_022,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_022,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_022,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_022,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_022,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_023,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_023,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_023,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_023,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_023,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_023,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_023,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_023,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_023,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_024,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_024,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_024,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_024,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_024,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_024,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_024,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_024,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_024,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_025,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_025,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_025,Multi-Step Arithmetic Word Problems,ARITH,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_025,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_025,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_025,Multi-Step Arithmetic Word Problems,ARITH,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_025,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_025,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_025,Multi-Step Arithmetic Word Problems,ARITH,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_026,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_026,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_026,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_026,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_026,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_026,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_026,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_026,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_026,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_027,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_027,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_027,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_027,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_027,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_027,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_027,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_027,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_027,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_028,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_028,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_028,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_028,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_028,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_028,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_028,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_028,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_028,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_029,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_029,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_029,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_029,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_029,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_029,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_029,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_029,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_029,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_030,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_030,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_030,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_030,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_030,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_030,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_030,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_030,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_030,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_031,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_031,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_031,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_031,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_031,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_031,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_031,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_031,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_031,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_032,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_032,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_032,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_032,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_032,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_032,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_032,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_032,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_032,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_033,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_033,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_033,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_033,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_033,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_033,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_033,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_033,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_033,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_034,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_034,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_034,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_034,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_034,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_034,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_034,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_034,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_034,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_035,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_035,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_035,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_035,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_035,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_035,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_035,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_035,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_035,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_036,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_036,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_036,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_036,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_036,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_036,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_036,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_036,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_036,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_037,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_037,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_037,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_037,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_037,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_037,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_037,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_037,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_037,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_038,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_038,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_038,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_038,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_038,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_038,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_038,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_038,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_038,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_039,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_039,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_039,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_039,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_039,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_039,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_039,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_039,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_039,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_040,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_040,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_040,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_040,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_040,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_040,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_040,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_040,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_040,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_041,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_041,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_041,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_041,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_041,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_041,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_041,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_041,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_041,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_042,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_042,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_042,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_042,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_042,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_042,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_042,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_042,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_042,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_043,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_043,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_043,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_043,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_043,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_043,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_043,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_043,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_043,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_044,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_044,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_044,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_044,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_044,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_044,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_044,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_044,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_044,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_045,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_045,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_045,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_045,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_045,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_045,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_045,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_045,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_045,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_046,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_046,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_046,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_046,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_046,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_046,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_046,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_046,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_046,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_047,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_047,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_047,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_047,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_047,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_047,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_047,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_047,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_047,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_048,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_048,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_048,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_048,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_048,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_048,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_048,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_048,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_048,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_049,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_049,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_049,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_049,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_049,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_049,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_049,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_049,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_049,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_050,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_050,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_050,Fractions & Decimals,FRAC,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_050,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_050,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_050,Fractions & Decimals,FRAC,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_050,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_050,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_050,Fractions & Decimals,FRAC,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_051,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_051,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_051,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_051,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_051,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_051,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_051,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_051,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_051,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_052,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_052,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_052,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_052,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_052,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_052,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_052,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_052,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_052,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_053,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_053,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_053,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_053,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_053,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_053,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_053,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_053,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_053,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_054,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_054,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_054,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_054,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_054,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_054,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_054,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_054,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_054,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_055,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_055,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_055,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_055,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_055,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_055,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_055,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_055,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_055,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_056,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_056,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_056,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_056,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_056,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_056,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_056,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_056,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_056,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_057,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_057,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_057,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_057,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_057,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_057,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_057,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_057,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_057,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_058,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_058,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_058,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_058,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_058,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_058,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_058,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_058,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_058,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_059,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_059,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_059,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_059,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_059,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_059,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_059,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_059,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_059,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_060,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_060,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_060,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_060,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_060,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_060,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_060,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_060,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_060,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_061,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_061,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_061,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_061,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_061,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_061,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_061,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_061,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_061,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_062,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_062,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_062,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_062,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_062,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_062,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_062,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_062,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_062,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_063,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_063,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_063,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_063,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_063,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_063,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_063,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_063,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_063,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_064,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_064,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_064,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_064,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_064,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_064,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_064,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_064,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_064,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_065,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_065,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_065,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_065,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_065,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_065,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_065,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_065,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_065,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_066,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_066,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_066,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_066,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_066,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_066,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_066,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_066,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_066,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_067,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_067,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_067,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_067,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_067,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_067,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_067,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_067,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_067,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_068,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_068,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_068,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_068,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_068,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_068,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_068,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_068,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_068,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_069,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_069,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_069,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_069,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_069,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_069,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_069,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_069,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_069,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_070,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_070,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_070,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_070,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_070,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_070,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_070,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_070,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_070,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_071,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_071,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_071,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_071,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_071,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_071,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_071,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_071,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_071,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_072,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_072,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_072,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_072,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_072,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_072,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_072,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,0,0,1.25,2.3333,1,3,0,
+MATH_G5_072,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,0,3,2.0,1.3333,1,3,0,
+MATH_G5_072,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,0,0,1.25,2.3333,1,3,0,1.0
+MATH_G5_073,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_073,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_073,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_073,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_073,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_073,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_073,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,0,0,1.25,2.3333,1,3,0,
+MATH_G5_073,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_073,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,0,3,2.0,1.3333,1,3,0,1.0
+MATH_G5_074,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_074,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_074,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_074,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_074,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_074,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_074,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_074,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,0,3,2.0,1.3333,1,3,0,
+MATH_G5_074,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,0,0,1.25,2.3333,1,3,0,1.0
+MATH_G5_075,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_075,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_075,Ratios & Proportions,RATIO,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_075,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_075,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_075,Ratios & Proportions,RATIO,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_075,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_075,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_075,Ratios & Proportions,RATIO,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_076,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_076,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_076,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_076,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_076,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_076,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_076,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_076,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_076,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_077,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_077,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_077,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_077,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_077,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_077,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_077,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_077,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_077,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_078,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_078,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_078,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_078,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_078,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_078,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_078,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_078,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_078,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_079,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_079,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_079,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_079,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_079,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_079,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_079,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_079,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_079,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_080,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_080,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_080,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_080,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_080,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_080,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_080,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_080,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_080,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_081,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_081,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_081,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_081,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_081,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_081,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_081,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_081,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_081,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_082,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_082,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_082,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_082,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_082,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_082,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_082,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_082,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_082,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_083,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_083,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_083,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_083,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_083,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_083,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_083,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_083,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_083,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_084,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_084,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_084,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_084,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_084,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_084,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_084,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_084,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_084,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_085,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_085,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_085,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_085,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_085,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_085,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_085,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_085,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_085,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_086,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_086,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_086,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_086,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_086,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_086,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_086,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_086,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_086,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_087,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_087,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_087,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_087,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_087,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_087,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_087,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_087,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_087,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_088,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_088,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_088,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_088,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_088,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_088,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_088,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_088,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_088,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_089,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_089,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_089,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_089,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_089,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_089,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_089,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_089,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_089,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_090,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_090,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_090,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_090,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_090,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_090,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_090,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_090,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_090,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_091,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_091,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_091,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_091,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_091,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_091,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_091,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_091,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_091,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_092,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_092,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_092,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_092,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_092,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_092,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_092,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_092,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_092,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_093,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_093,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_093,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_093,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_093,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_093,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_093,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_093,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_093,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_094,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_094,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_094,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_094,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_094,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_094,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_094,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_094,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_094,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_095,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_095,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_095,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_095,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_095,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_095,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_095,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_095,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_095,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_096,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_096,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_096,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_096,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_096,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_096,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_096,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_096,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_096,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_097,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_097,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_097,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_097,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_097,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_097,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_097,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_097,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_097,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_098,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_098,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_098,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_098,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_098,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_098,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_098,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_098,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,0,2.0,1.3333,1,4,0,
+MATH_G5_098,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,0,2.0,1.3333,1,4,0,1.0
+MATH_G5_099,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_099,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_099,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_099,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_099,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_099,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_099,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_099,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_099,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0
+MATH_G5_100,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_1,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_100,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_2,0,0,0,0,0.0,4.0,1,1,0,
+MATH_G5_100,Introductory Geometry & Measurement,GEOM,Config_A,Unconstrained Consumer Default,Persona_3,0,0,0,0,0.0,4.0,1,1,0,0.0
+MATH_G5_100,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_1,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_100,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_2,2,0,0,0,0.5,3.3333,1,2,0,
+MATH_G5_100,Introductory Geometry & Measurement,GEOM,Config_B,Naive Helpful Tutor,Persona_3,2,0,0,0,0.5,3.3333,1,2,0,0.0
+MATH_G5_100,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_1,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_100,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_2,3,2,3,3,2.75,0.3333,0,4,1,
+MATH_G5_100,Introductory Geometry & Measurement,GEOM,Config_C,Pedagogically Guardrailed Socratic Tutor,Persona_3,3,2,3,3,2.75,0.3333,0,4,1,1.0

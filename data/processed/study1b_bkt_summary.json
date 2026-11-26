@@ -1,0 +1,103 @@
+{
+  "study": "Study 1b: Bayesian Knowledge Tracing with Offloading-Modulated Cognitive Decay",
+  "decay_parameters": {
+    "Low COI": {
+      "coi": 0.08,
+      "phi_decay": 0.012,
+      "t_mult": 1.0
+    },
+    "Moderate COI": {
+      "coi": 0.28,
+      "phi_decay": 0.048,
+      "t_mult": 0.65
+    },
+    "High COI": {
+      "coi": 0.68,
+      "phi_decay": 0.124,
+      "t_mult": 0.28
+    }
+  },
+  "mastery_at_trial_15": {
+    "Low COI": 0.9429,
+    "Moderate COI": 0.8498,
+    "High COI": 0.6075
+  },
+  "mastery_at_trial_30": {
+    "Low COI": 0.7867,
+    "Moderate COI": 0.4063,
+    "High COI": 0.0834
+  },
+  "mastery_retention_ratio": {
+    "Low COI": 0.8343,
+    "Moderate COI": 0.4781,
+    "High COI": 0.1373
+  },
+  "model_fit_comparison": {
+    "parameters": {
+      "standard_bkt_k": 4,
+      "cognitive_debt_bkt_k": 7,
+      "cognitive_debt_bkt_k_legacy": 5,
+      "parameters_list_debt": [
+        "L0",
+        "T",
+        "G",
+        "S",
+        "lambda_suppression",
+        "phi0_baseline_decay",
+        "gamma_coi_slope"
+      ]
+    },
+    "sample_sizes": {
+      "n_delayed_trials": 15,
+      "n_obs_delayed": 63000,
+      "n_full_trials": 30,
+      "n_obs_full": 126000
+    },
+    "delayed_window_n63k": {
+      "standard_bkt": {
+        "parameters": 4,
+        "log_likelihood": -49521.50139848302,
+        "aic": 99051.00279696604,
+        "bic": 99087.20635698753
+      },
+      "cognitive_debt_bkt_k7": {
+        "parameters": 7,
+        "log_likelihood": -37134.575452433404,
+        "aic": 74283.15090486681,
+        "bic": 74346.50713490443,
+        "delta_bic": 24740.6992220831
+      },
+      "cognitive_debt_bkt_k5_legacy": {
+        "parameters": 5,
+        "log_likelihood": -37134.575452433404,
+        "aic": 74279.15090486681,
+        "bic": 74324.40535489368,
+        "delta_bic": 24762.801002093853
+      }
+    },
+    "full_window_n126k": {
+      "standard_bkt": {
+        "parameters": 4,
+        "bic": 99089.97894570978
+      },
+      "cognitive_debt_bkt_k7": {
+        "parameters": 7,
+        "bic": 74351.35916516834,
+        "delta_bic": 24738.61978054144
+      }
+    },
+    "standard_bkt": {
+      "parameters": 4,
+      "log_likelihood": -49521.50139848302,
+      "aic": 99051.00279696604,
+      "bic": 99087.20635698753
+    },
+    "cognitive_debt_bkt": {
+      "parameters": 7,
+      "log_likelihood": -37134.575452433404,
+      "aic": 74283.15090486681,
+      "bic": 74346.50713490443,
+      "delta_bic": 24740.6992220831
+    }
+  }
+}

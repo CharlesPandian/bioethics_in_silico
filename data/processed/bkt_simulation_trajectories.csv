@@ -1,0 +1,91 @@
+cohort,trial,phase,mean_latent_mastery,mean_observed_accuracy
+Low COI,1,Assisted Practice,0.3444,0.4422
+Low COI,2,Assisted Practice,0.4493,0.5241
+Low COI,3,Assisted Practice,0.5374,0.5928
+Low COI,4,Assisted Practice,0.6114,0.6505
+Low COI,5,Assisted Practice,0.6736,0.699
+Low COI,6,Assisted Practice,0.7258,0.7397
+Low COI,7,Assisted Practice,0.7697,0.774
+Low COI,8,Assisted Practice,0.8065,0.8027
+Low COI,9,Assisted Practice,0.8375,0.8268
+Low COI,10,Assisted Practice,0.8635,0.8471
+Low COI,11,Assisted Practice,0.8853,0.8642
+Low COI,12,Assisted Practice,0.9037,0.8785
+Low COI,13,Assisted Practice,0.9191,0.8905
+Low COI,14,Assisted Practice,0.932,0.9006
+Low COI,15,Assisted Practice,0.9429,0.9091
+Low COI,16,Delayed Unassisted Transfer,0.9316,0.8666
+Low COI,17,Delayed Unassisted Transfer,0.9204,0.8579
+Low COI,18,Delayed Unassisted Transfer,0.9094,0.8493
+Low COI,19,Delayed Unassisted Transfer,0.8985,0.8408
+Low COI,20,Delayed Unassisted Transfer,0.8877,0.8324
+Low COI,21,Delayed Unassisted Transfer,0.877,0.8241
+Low COI,22,Delayed Unassisted Transfer,0.8665,0.8159
+Low COI,23,Delayed Unassisted Transfer,0.8561,0.8078
+Low COI,24,Delayed Unassisted Transfer,0.8458,0.7997
+Low COI,25,Delayed Unassisted Transfer,0.8357,0.7918
+Low COI,26,Delayed Unassisted Transfer,0.8257,0.784
+Low COI,27,Delayed Unassisted Transfer,0.8157,0.7763
+Low COI,28,Delayed Unassisted Transfer,0.806,0.7686
+Low COI,29,Delayed Unassisted Transfer,0.7963,0.7611
+Low COI,30,Delayed Unassisted Transfer,0.7867,0.7536
+Moderate COI,1,Assisted Practice,0.3012,0.4926
+Moderate COI,2,Assisted Practice,0.3739,0.5492
+Moderate COI,3,Assisted Practice,0.439,0.6
+Moderate COI,4,Assisted Practice,0.4974,0.6455
+Moderate COI,5,Assisted Practice,0.5496,0.6863
+Moderate COI,6,Assisted Practice,0.5965,0.7228
+Moderate COI,7,Assisted Practice,0.6384,0.7556
+Moderate COI,8,Assisted Practice,0.676,0.7849
+Moderate COI,9,Assisted Practice,0.7097,0.8112
+Moderate COI,10,Assisted Practice,0.7399,0.8347
+Moderate COI,11,Assisted Practice,0.767,0.8558
+Moderate COI,12,Assisted Practice,0.7912,0.8747
+Moderate COI,13,Assisted Practice,0.8129,0.8917
+Moderate COI,14,Assisted Practice,0.8324,0.9069
+Moderate COI,15,Assisted Practice,0.8498,0.9205
+Moderate COI,16,Delayed Unassisted Transfer,0.809,0.771
+Moderate COI,17,Delayed Unassisted Transfer,0.7702,0.7407
+Moderate COI,18,Delayed Unassisted Transfer,0.7332,0.7119
+Moderate COI,19,Delayed Unassisted Transfer,0.698,0.6845
+Moderate COI,20,Delayed Unassisted Transfer,0.6645,0.6583
+Moderate COI,21,Delayed Unassisted Transfer,0.6326,0.6334
+Moderate COI,22,Delayed Unassisted Transfer,0.6023,0.6098
+Moderate COI,23,Delayed Unassisted Transfer,0.5733,0.5872
+Moderate COI,24,Delayed Unassisted Transfer,0.5458,0.5657
+Moderate COI,25,Delayed Unassisted Transfer,0.5196,0.5453
+Moderate COI,26,Delayed Unassisted Transfer,0.4947,0.5259
+Moderate COI,27,Delayed Unassisted Transfer,0.4709,0.5073
+Moderate COI,28,Delayed Unassisted Transfer,0.4483,0.4897
+Moderate COI,29,Delayed Unassisted Transfer,0.4268,0.4729
+Moderate COI,30,Delayed Unassisted Transfer,0.4063,0.4569
+High COI,1,Assisted Practice,0.2544,0.6241
+High COI,2,Assisted Practice,0.2878,0.6501
+High COI,3,Assisted Practice,0.3197,0.675
+High COI,4,Assisted Practice,0.3502,0.6988
+High COI,5,Assisted Practice,0.3793,0.7215
+High COI,6,Assisted Practice,0.4071,0.7432
+High COI,7,Assisted Practice,0.4337,0.7639
+High COI,8,Assisted Practice,0.4591,0.7837
+High COI,9,Assisted Practice,0.4833,0.8026
+High COI,10,Assisted Practice,0.5064,0.8206
+High COI,11,Assisted Practice,0.5286,0.8379
+High COI,12,Assisted Practice,0.5497,0.8543
+High COI,13,Assisted Practice,0.5698,0.8701
+High COI,14,Assisted Practice,0.5891,0.8851
+High COI,15,Assisted Practice,0.6075,0.8995
+High COI,16,Delayed Unassisted Transfer,0.5322,0.5551
+High COI,17,Delayed Unassisted Transfer,0.4662,0.5036
+High COI,18,Delayed Unassisted Transfer,0.4084,0.4585
+High COI,19,Delayed Unassisted Transfer,0.3578,0.419
+High COI,20,Delayed Unassisted Transfer,0.3134,0.3844
+High COI,21,Delayed Unassisted Transfer,0.2745,0.3541
+High COI,22,Delayed Unassisted Transfer,0.2405,0.3276
+High COI,23,Delayed Unassisted Transfer,0.2107,0.3043
+High COI,24,Delayed Unassisted Transfer,0.1845,0.2839
+High COI,25,Delayed Unassisted Transfer,0.1617,0.2661
+High COI,26,Delayed Unassisted Transfer,0.1416,0.2505
+High COI,27,Delayed Unassisted Transfer,0.1241,0.2368
+High COI,28,Delayed Unassisted Transfer,0.1087,0.2248
+High COI,29,Delayed Unassisted Transfer,0.0952,0.2143
+High COI,30,Delayed Unassisted Transfer,0.0834,0.205

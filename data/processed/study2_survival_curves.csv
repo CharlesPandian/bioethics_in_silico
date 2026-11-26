@@ -1,0 +1,16 @@
+config_id,turn,survival_prob,ci_low,ci_high
+Config_A,0,1.0,1.0,1.0
+Config_A,1,0.0,0.0,0.0004
+Config_A,2,0.0,0.0,0.0004
+Config_A,3,0.0,0.0,0.0004
+Config_A,4,0.0,0.0,0.0004
+Config_B,0,1.0,1.0,1.0
+Config_B,1,1.0,0.9996,1.0
+Config_B,2,0.0,0.0,0.0004
+Config_B,3,0.0,0.0,0.0004
+Config_B,4,0.0,0.0,0.0004
+Config_C,0,1.0,1.0,1.0
+Config_C,1,1.0,0.9996,1.0
+Config_C,2,1.0,0.9996,1.0
+Config_C,3,0.9767,0.9596,0.9938
+Config_C,4,0.5067,0.4501,0.5632

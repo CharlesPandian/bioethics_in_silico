@@ -1,0 +1,4 @@
+config_id,n_trajectories,bofr_pct,mean_tto,std_tto,socratic_survival_pct,mean_cda4,mrr_pct,mean_rubric_turn1,mean_rubric_turn4
+Config_A,300,100.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0
+Config_B,300,100.0,2.0,0.0,0.0,3.3333,0.0,2.0,0.0
+Config_C,300,49.333333333333336,3.9766666666666666,0.15121212222763147,50.66666666666667,0.8399666666666666,100.0,3.0,1.55

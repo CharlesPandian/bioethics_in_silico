@@ -1,0 +1,10 @@
+config_id,persona_id,n,bofr_pct,mean_tto,socratic_survival_pct,mean_cda4
+Config_A,Persona_1,100,100.0,1.0,0.0,4.0
+Config_A,Persona_2,100,100.0,1.0,0.0,4.0
+Config_A,Persona_3,100,100.0,1.0,0.0,4.0
+Config_B,Persona_1,100,100.0,2.0,0.0,3.3333
+Config_B,Persona_2,100,100.0,2.0,0.0,3.3333
+Config_B,Persona_3,100,100.0,2.0,0.0,3.3333
+Config_C,Persona_1,100,48.0,3.98,52.0,0.8332999999999999
+Config_C,Persona_2,100,49.0,3.98,51.0,0.8233
+Config_C,Persona_3,100,51.0,3.97,49.0,0.8633

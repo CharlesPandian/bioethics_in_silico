@@ -1,0 +1,549 @@
+{
+  "study": "Study 2: In-Silico Controlled Multi-Agent Pedagogical Audit",
+  "total_trajectories": 900,
+  "inter_rater_reliability": {
+    "cohens_kappa": 0.8860471005317803,
+    "percentage_agreement": 0.9375,
+    "validation_subsample_size": 720
+  },
+  "config_summary": [
+    {
+      "config_id": "Config_A",
+      "n_trajectories": 300,
+      "bofr_pct": 100.0,
+      "mean_tto": 1.0,
+      "std_tto": 0.0,
+      "socratic_survival_pct": 0.0,
+      "mean_cda4": 4.0,
+      "mrr_pct": 0.0,
+      "mean_rubric_turn1": 0.0,
+      "mean_rubric_turn4": 0.0
+    },
+    {
+      "config_id": "Config_B",
+      "n_trajectories": 300,
+      "bofr_pct": 100.0,
+      "mean_tto": 2.0,
+      "std_tto": 0.0,
+      "socratic_survival_pct": 0.0,
+      "mean_cda4": 3.3333,
+      "mrr_pct": 0.0,
+      "mean_rubric_turn1": 2.0,
+      "mean_rubric_turn4": 0.0
+    },
+    {
+      "config_id": "Config_C",
+      "n_trajectories": 300,
+      "bofr_pct": 49.333333333333336,
+      "mean_tto": 3.9766666666666666,
+      "std_tto": 0.15121212222763147,
+      "socratic_survival_pct": 50.66666666666667,
+      "mean_cda4": 0.8399666666666666,
+      "mrr_pct": 100.0,
+      "mean_rubric_turn1": 3.0,
+      "mean_rubric_turn4": 1.55
+    }
+  ],
+  "config_persona_summary": [
+    {
+      "config_id": "Config_A",
+      "persona_id": "Persona_1",
+      "n": 100,
+      "bofr_pct": 100.0,
+      "mean_tto": 1.0,
+      "socratic_survival_pct": 0.0,
+      "mean_cda4": 4.0
+    },
+    {
+      "config_id": "Config_A",
+      "persona_id": "Persona_2",
+      "n": 100,
+      "bofr_pct": 100.0,
+      "mean_tto": 1.0,
+      "socratic_survival_pct": 0.0,
+      "mean_cda4": 4.0
+    },
+    {
+      "config_id": "Config_A",
+      "persona_id": "Persona_3",
+      "n": 100,
+      "bofr_pct": 100.0,
+      "mean_tto": 1.0,
+      "socratic_survival_pct": 0.0,
+      "mean_cda4": 4.0
+    },
+    {
+      "config_id": "Config_B",
+      "persona_id": "Persona_1",
+      "n": 100,
+      "bofr_pct": 100.0,
+      "mean_tto": 2.0,
+      "socratic_survival_pct": 0.0,
+      "mean_cda4": 3.3333
+    },
+    {
+      "config_id": "Config_B",
+      "persona_id": "Persona_2",
+      "n": 100,
+      "bofr_pct": 100.0,
+      "mean_tto": 2.0,
+      "socratic_survival_pct": 0.0,
+      "mean_cda4": 3.3333
+    },
+    {
+      "config_id": "Config_B",
+      "persona_id": "Persona_3",
+      "n": 100,
+      "bofr_pct": 100.0,
+      "mean_tto": 2.0,
+      "socratic_survival_pct": 0.0,
+      "mean_cda4": 3.3333
+    },
+    {
+      "config_id": "Config_C",
+      "persona_id": "Persona_1",
+      "n": 100,
+      "bofr_pct": 48.0,
+      "mean_tto": 3.98,
+      "socratic_survival_pct": 52.0,
+      "mean_cda4": 0.8332999999999999
+    },
+    {
+      "config_id": "Config_C",
+      "persona_id": "Persona_2",
+      "n": 100,
+      "bofr_pct": 49.0,
+      "mean_tto": 3.98,
+      "socratic_survival_pct": 51.0,
+      "mean_cda4": 0.8233
+    },
+    {
+      "config_id": "Config_C",
+      "persona_id": "Persona_3",
+      "n": 100,
+      "bofr_pct": 51.0,
+      "mean_tto": 3.97,
+      "socratic_survival_pct": 49.0,
+      "mean_cda4": 0.8633
+    }
+  ],
+  "domain_summary": [
+    {
+      "domain_code": "ARITH",
+      "config_id": "Config_A",
+      "domain": "Multi-Step Arithmetic Word Problems",
+      "n_trajectories": 75,
+      "bofr_pct": 100.0,
+      "mean_tto": 1.0,
+      "socratic_survival_pct": 0.0,
+      "mrr_pct": 0.0,
+      "mean_cda4": 4.0,
+      "turn1_mean": 0.0,
+      "turn2_mean": 0.0,
+      "turn3_mean": 0.0,
+      "turn4_mean": 0.0
+    },
+    {
+      "domain_code": "ARITH",
+      "config_id": "Config_B",
+      "domain": "Multi-Step Arithmetic Word Problems",
+      "n_trajectories": 75,
+      "bofr_pct": 100.0,
+      "mean_tto": 2.0,
+      "socratic_survival_pct": 0.0,
+      "mrr_pct": 0.0,
+      "mean_cda4": 3.3333,
+      "turn1_mean": 2.0,
+      "turn2_mean": 0.0,
+      "turn3_mean": 0.0,
+      "turn4_mean": 0.0
+    },
+    {
+      "domain_code": "ARITH",
+      "config_id": "Config_C",
+      "domain": "Multi-Step Arithmetic Word Problems",
+      "n_trajectories": 75,
+      "bofr_pct": 49.333333333333336,
+      "mean_tto": 4.0,
+      "socratic_survival_pct": 50.66666666666667,
+      "mrr_pct": 100.0,
+      "mean_cda4": 0.8266333333333332,
+      "turn1_mean": 3.0,
+      "turn2_mean": 2.0,
+      "turn3_mean": 3.0,
+      "turn4_mean": 1.52
+    },
+    {
+      "domain_code": "FRAC",
+      "config_id": "Config_A",
+      "domain": "Fractions & Decimals",
+      "n_trajectories": 75,
+      "bofr_pct": 100.0,
+      "mean_tto": 1.0,
+      "socratic_survival_pct": 0.0,
+      "mrr_pct": 0.0,
+      "mean_cda4": 4.0,
+      "turn1_mean": 0.0,
+      "turn2_mean": 0.0,
+      "turn3_mean": 0.0,
+      "turn4_mean": 0.0
+    },
+    {
+      "domain_code": "FRAC",
+      "config_id": "Config_B",
+      "domain": "Fractions & Decimals",
+      "n_trajectories": 75,
+      "bofr_pct": 100.0,
+      "mean_tto": 2.0,
+      "socratic_survival_pct": 0.0,
+      "mrr_pct": 0.0,
+      "mean_cda4": 3.3333,
+      "turn1_mean": 2.0,
+      "turn2_mean": 0.0,
+      "turn3_mean": 0.0,
+      "turn4_mean": 0.0
+    },
+    {
+      "domain_code": "FRAC",
+      "config_id": "Config_C",
+      "domain": "Fractions & Decimals",
+      "n_trajectories": 75,
+      "bofr_pct": 53.333333333333336,
+      "mean_tto": 4.0,
+      "socratic_survival_pct": 46.666666666666664,
+      "mrr_pct": 100.0,
+      "mean_cda4": 0.8666333333333334,
+      "turn1_mean": 3.0,
+      "turn2_mean": 2.0,
+      "turn3_mean": 3.0,
+      "turn4_mean": 1.4
+    },
+    {
+      "domain_code": "GEOM",
+      "config_id": "Config_A",
+      "domain": "Introductory Geometry & Measurement",
+      "n_trajectories": 75,
+      "bofr_pct": 100.0,
+      "mean_tto": 1.0,
+      "socratic_survival_pct": 0.0,
+      "mrr_pct": 0.0,
+      "mean_cda4": 4.0,
+      "turn1_mean": 0.0,
+      "turn2_mean": 0.0,
+      "turn3_mean": 0.0,
+      "turn4_mean": 0.0
+    },
+    {
+      "domain_code": "GEOM",
+      "config_id": "Config_B",
+      "domain": "Introductory Geometry & Measurement",
+      "n_trajectories": 75,
+      "bofr_pct": 100.0,
+      "mean_tto": 2.0,
+      "socratic_survival_pct": 0.0,
+      "mrr_pct": 0.0,
+      "mean_cda4": 3.3333,
+      "turn1_mean": 2.0,
+      "turn2_mean": 0.0,
+      "turn3_mean": 0.0,
+      "turn4_mean": 0.0
+    },
+    {
+      "domain_code": "GEOM",
+      "config_id": "Config_C",
+      "domain": "Introductory Geometry & Measurement",
+      "n_trajectories": 75,
+      "bofr_pct": 40.0,
+      "mean_tto": 4.0,
+      "socratic_survival_pct": 60.0,
+      "mrr_pct": 100.0,
+      "mean_cda4": 0.7333,
+      "turn1_mean": 3.0,
+      "turn2_mean": 2.0,
+      "turn3_mean": 3.0,
+      "turn4_mean": 1.8
+    },
+    {
+      "domain_code": "RATIO",
+      "config_id": "Config_A",
+      "domain": "Ratios & Proportions",
+      "n_trajectories": 75,
+      "bofr_pct": 100.0,
+      "mean_tto": 1.0,
+      "socratic_survival_pct": 0.0,
+      "mrr_pct": 0.0,
+      "mean_cda4": 4.0,
+      "turn1_mean": 0.0,
+      "turn2_mean": 0.0,
+      "turn3_mean": 0.0,
+      "turn4_mean": 0.0
+    },
+    {
+      "domain_code": "RATIO",
+      "config_id": "Config_B",
+      "domain": "Ratios & Proportions",
+      "n_trajectories": 75,
+      "bofr_pct": 100.0,
+      "mean_tto": 2.0,
+      "socratic_survival_pct": 0.0,
+      "mrr_pct": 0.0,
+      "mean_cda4": 3.3333,
+      "turn1_mean": 2.0,
+      "turn2_mean": 0.0,
+      "turn3_mean": 0.0,
+      "turn4_mean": 0.0
+    },
+    {
+      "domain_code": "RATIO",
+      "config_id": "Config_C",
+      "domain": "Ratios & Proportions",
+      "n_trajectories": 75,
+      "bofr_pct": 54.666666666666664,
+      "mean_tto": 3.9066666666666667,
+      "socratic_survival_pct": 45.33333333333333,
+      "mrr_pct": 100.0,
+      "mean_cda4": 0.9333,
+      "turn1_mean": 3.0,
+      "turn2_mean": 2.0,
+      "turn3_mean": 2.72,
+      "turn4_mean": 1.48
+    }
+  ],
+  "hazard_summary": [
+    {
+      "config_id": "Config_A",
+      "turn": 1,
+      "n_at_risk": 300,
+      "collapses": 300,
+      "hazard_rate": 1.0
+    },
+    {
+      "config_id": "Config_A",
+      "turn": 2,
+      "n_at_risk": 0,
+      "collapses": 0,
+      "hazard_rate": 0.0
+    },
+    {
+      "config_id": "Config_A",
+      "turn": 3,
+      "n_at_risk": 0,
+      "collapses": 0,
+      "hazard_rate": 0.0
+    },
+    {
+      "config_id": "Config_A",
+      "turn": 4,
+      "n_at_risk": 0,
+      "collapses": 0,
+      "hazard_rate": 0.0
+    },
+    {
+      "config_id": "Config_B",
+      "turn": 1,
+      "n_at_risk": 300,
+      "collapses": 0,
+      "hazard_rate": 0.0
+    },
+    {
+      "config_id": "Config_B",
+      "turn": 2,
+      "n_at_risk": 300,
+      "collapses": 300,
+      "hazard_rate": 1.0
+    },
+    {
+      "config_id": "Config_B",
+      "turn": 3,
+      "n_at_risk": 0,
+      "collapses": 0,
+      "hazard_rate": 0.0
+    },
+    {
+      "config_id": "Config_B",
+      "turn": 4,
+      "n_at_risk": 0,
+      "collapses": 0,
+      "hazard_rate": 0.0
+    },
+    {
+      "config_id": "Config_C",
+      "turn": 1,
+      "n_at_risk": 300,
+      "collapses": 0,
+      "hazard_rate": 0.0
+    },
+    {
+      "config_id": "Config_C",
+      "turn": 2,
+      "n_at_risk": 300,
+      "collapses": 0,
+      "hazard_rate": 0.0
+    },
+    {
+      "config_id": "Config_C",
+      "turn": 3,
+      "n_at_risk": 300,
+      "collapses": 7,
+      "hazard_rate": 0.0233
+    },
+    {
+      "config_id": "Config_C",
+      "turn": 4,
+      "n_at_risk": 293,
+      "collapses": 141,
+      "hazard_rate": 0.4812
+    }
+  ],
+  "entropy_debt_summary": [
+    {
+      "config_id": "Config_A",
+      "turn": 1,
+      "mean_rubric": 0.0,
+      "std_rubric": 0.0,
+      "mean_entropy": 4.527331,
+      "std_entropy": 0.20062735720866928,
+      "mean_cda": 1.0,
+      "std_cda": 0.0
+    },
+    {
+      "config_id": "Config_A",
+      "turn": 2,
+      "mean_rubric": 0.0,
+      "std_rubric": 0.0,
+      "mean_entropy": 2.399725,
+      "std_entropy": 0.14713502867733275,
+      "mean_cda": 2.0,
+      "std_cda": 0.0
+    },
+    {
+      "config_id": "Config_A",
+      "turn": 3,
+      "mean_rubric": 0.0,
+      "std_rubric": 0.0,
+      "mean_entropy": 2.399725,
+      "std_entropy": 0.14713502867733275,
+      "mean_cda": 3.0,
+      "std_cda": 0.0
+    },
+    {
+      "config_id": "Config_A",
+      "turn": 4,
+      "mean_rubric": 0.0,
+      "std_rubric": 0.0,
+      "mean_entropy": 2.399725,
+      "std_entropy": 0.14713502867733275,
+      "mean_cda": 4.0,
+      "std_cda": 0.0
+    },
+    {
+      "config_id": "Config_B",
+      "turn": 1,
+      "mean_rubric": 2.0,
+      "std_rubric": 0.0,
+      "mean_entropy": 4.1699,
+      "std_entropy": 0.0,
+      "mean_cda": 0.3333,
+      "std_cda": 0.0
+    },
+    {
+      "config_id": "Config_B",
+      "turn": 2,
+      "mean_rubric": 0.0,
+      "std_rubric": 0.0,
+      "mean_entropy": 4.696614,
+      "std_entropy": 0.18383302207169802,
+      "mean_cda": 1.3333,
+      "std_cda": 0.0
+    },
+    {
+      "config_id": "Config_B",
+      "turn": 3,
+      "mean_rubric": 0.0,
+      "std_rubric": 0.0,
+      "mean_entropy": 3.732324,
+      "std_entropy": 0.06206392667226175,
+      "mean_cda": 2.3333,
+      "std_cda": 0.0
+    },
+    {
+      "config_id": "Config_B",
+      "turn": 4,
+      "mean_rubric": 0.0,
+      "std_rubric": 0.0,
+      "mean_entropy": 4.206099,
+      "std_entropy": 0.24646007817246188,
+      "mean_cda": 3.3333,
+      "std_cda": 0.0
+    },
+    {
+      "config_id": "Config_C",
+      "turn": 1,
+      "mean_rubric": 3.0,
+      "std_rubric": 0.0,
+      "mean_entropy": 3.9069,
+      "std_entropy": 0.0,
+      "mean_cda": 0.0,
+      "std_cda": 0.0
+    },
+    {
+      "config_id": "Config_C",
+      "turn": 2,
+      "mean_rubric": 2.0,
+      "std_rubric": 0.0,
+      "mean_entropy": 4.4208430000000005,
+      "std_entropy": 0.030835880986074045,
+      "mean_cda": 0.3333,
+      "std_cda": 0.0
+    },
+    {
+      "config_id": "Config_C",
+      "turn": 3,
+      "mean_rubric": 2.93,
+      "std_rubric": 0.45363636668289437,
+      "mean_entropy": 4.20102,
+      "std_entropy": 0.10453531959810641,
+      "mean_cda": 0.3566333333333333,
+      "std_cda": 0.15121212222763142
+    },
+    {
+      "config_id": "Config_C",
+      "turn": 4,
+      "mean_rubric": 1.55,
+      "std_rubric": 1.5016713097106258,
+      "mean_entropy": 4.600721333333333,
+      "std_entropy": 0.15162596608163617,
+      "mean_cda": 0.8399666666666666,
+      "std_cda": 0.5268276569771901
+    }
+  ],
+  "chi_square_bofr": {
+    "chi2_statistic": 365.77540106951875,
+    "p_value": 3.740079637931353e-80,
+    "degrees_of_freedom": 2
+  },
+  "mixed_effects_rubric": {
+    "fixed_effects": {
+      "Intercept": 1.8356649533757375e-14,
+      "C(config_id, Treatment('Config_C'))[T.Config_A]": -3.225000000000012,
+      "C(config_id, Treatment('Config_C'))[T.Config_B]": -1.2250000000000156,
+      "C(persona_id)[T.Persona_2]": 0.0024999999999981357,
+      "C(persona_id)[T.Persona_3]": -0.007500000000002345,
+      "turn": -0.34200000000000497,
+      "turn:C(config_id, Treatment('Config_C'))[T.Config_A]": 0.34200000000000585,
+      "turn:C(config_id, Treatment('Config_C'))[T.Config_B]": -0.25799999999999423,
+      "Group Var": 0.0
+    },
+    "p_values": {
+      "Intercept": 0.9999999999998479,
+      "C(config_id, Treatment('Config_C'))[T.Config_A]": 0.0,
+      "C(config_id, Treatment('Config_C'))[T.Config_B]": 1.3185268539393273e-88,
+      "C(persona_id)[T.Persona_2]": 0.9205338605977975,
+      "C(persona_id)[T.Persona_3]": 0.7647235178699396,
+      "turn": 2.8698203387944577e-103,
+      "turn:C(config_id, Treatment('Config_C'))[T.Config_A]": 1.4521832731858306e-52,
+      "turn:C(config_id, Treatment('Config_C'))[T.Config_B]": 1.1671088310459296e-30,
+      "Group Var": 1.0
+    }
+  }
+}

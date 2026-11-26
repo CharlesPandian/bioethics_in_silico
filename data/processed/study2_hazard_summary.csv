@@ -1,0 +1,13 @@
+config_id,turn,n_at_risk,collapses,hazard_rate
+Config_A,1,300,300,1.0
+Config_A,2,0,0,0.0
+Config_A,3,0,0,0.0
+Config_A,4,0,0,0.0
+Config_B,1,300,0,0.0
+Config_B,2,300,300,1.0
+Config_B,3,0,0,0.0
+Config_B,4,0,0,0.0
+Config_C,1,300,0,0.0
+Config_C,2,300,0,0.0
+Config_C,3,300,7,0.0233
+Config_C,4,293,141,0.4812

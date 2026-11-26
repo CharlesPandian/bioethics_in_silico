@@ -1,0 +1,150 @@
+{
+  "study": "Study 1: Quasi-Experimental Causal & Longitudinal Telemetry Analysis",
+  "dataset": "ASSISTments Ecosystem (88 RCTs & 2012-2013 Longitudinal Clickstream)",
+  "n_learners": 4200,
+  "cohorts": [
+    {
+      "coi_cohort": "Low COI",
+      "n_students": 868,
+      "mean_coi": 0.06383105313710412,
+      "std_coi": 0.04434960346277165,
+      "mean_in_session_acc": 0.7614465437788018,
+      "std_in_session_acc": 0.10230501943075997,
+      "mean_delayed_acc": 0.6297074884792626,
+      "std_delayed_acc": 0.16264201602410114,
+      "mean_delta_plp": 0.13173905529953917,
+      "std_delta_plp": 0.10470453516441842
+    },
+    {
+      "coi_cohort": "Moderate COI",
+      "n_students": 1306,
+      "mean_coi": 0.3101594499696093,
+      "std_coi": 0.08888826683967024,
+      "mean_in_session_acc": 0.8614471669218989,
+      "std_in_session_acc": 0.07462116858101747,
+      "mean_delayed_acc": 0.5018874425727412,
+      "std_delayed_acc": 0.16926798810233787,
+      "mean_delta_plp": 0.3595597243491577,
+      "std_delta_plp": 0.14137570071305705
+    },
+    {
+      "coi_cohort": "High COI",
+      "n_students": 2026,
+      "mean_coi": 0.6772453395137229,
+      "std_coi": 0.16261512868429484,
+      "mean_in_session_acc": 0.9409400789733464,
+      "std_in_session_acc": 0.04005367599589189,
+      "mean_delayed_acc": 0.34165621915103656,
+      "std_delayed_acc": 0.12404615808888117,
+      "mean_delta_plp": 0.59928385982231,
+      "std_delta_plp": 0.11943829164972819
+    }
+  ],
+  "rct_intervention": {
+    "scaffolded_mean_delayed": 0.539092403248925,
+    "bottom_out_mean_delayed": 0.36351504508780264,
+    "t_statistic": 34.45800998711951,
+    "p_value": 2.3206722920679348e-229,
+    "cohens_d": 1.0634031826198216
+  },
+  "coi_comparison": {
+    "low_coi_delayed_acc": 0.6297074884792626,
+    "high_coi_delayed_acc": 0.34165621915103656,
+    "t_statistic": 51.9188854091129,
+    "p_value": 0.0,
+    "cohens_d_weighted": 2.1061778483586293,
+    "cohens_d_unweighted": 1.9915426131434086,
+    "cohens_d": 2.1061778483586293
+  },
+  "performance_learning_paradox_anova": {
+    "true_rm_f_statistic": 4613.270486412598,
+    "true_rm_p_value": 0.0,
+    "true_rm_partial_eta_squared": 0.6873403218646655,
+    "f_statistic_interaction": 4613.270486412598,
+    "p_value_interaction": 0.0,
+    "partial_eta_squared": 0.6873403218646655,
+    "legacy_uncoupled_f_statistic": 2677.893760446771
+  },
+  "latency_mixed_effects": {
+    "model_1indexed": {
+      "fixed_effects": {
+        "Intercept": 8.905293141325469,
+        "C(coi_cohort, Treatment('Low COI'))[T.High COI]": 0.17598195903735062,
+        "C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": 0.06700794596400407,
+        "trial": 0.008565148122962152,
+        "trial:C(coi_cohort, Treatment('Low COI'))[T.High COI]": -0.17285786706260223,
+        "trial:C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": -0.07066770117480657,
+        "Group Var": 0.8535822929338769
+      },
+      "standard_errors": {
+        "Intercept": 0.008581811968932011,
+        "C(coi_cohort, Treatment('Low COI'))[T.High COI]": 0.01025672089297725,
+        "C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": 0.011072282964526142,
+        "trial": 0.0015640992884569224,
+        "trial:C(coi_cohort, Treatment('Low COI'))[T.High COI]": 0.001869363941867485,
+        "trial:C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": 0.002018006216997805,
+        "Group Var": 0.024396192358391314
+      },
+      "z_values": {
+        "Intercept": 1037.69380797022,
+        "C(coi_cohort, Treatment('Low COI'))[T.High COI]": 17.157721349115096,
+        "C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": 6.051863574900228,
+        "trial": 5.476089776507848,
+        "trial:C(coi_cohort, Treatment('Low COI'))[T.High COI]": -92.46881422668189,
+        "trial:C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": -35.01857456115233,
+        "Group Var": 34.9883408195164
+      },
+      "p_values": {
+        "Intercept": 0.0,
+        "C(coi_cohort, Treatment('Low COI'))[T.High COI]": 5.503075027095881e-66,
+        "C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": 1.4317970434081494e-09,
+        "trial": 4.3482714337448974e-08,
+        "trial:C(coi_cohort, Treatment('Low COI'))[T.High COI]": 0.0,
+        "trial:C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": 1.1735566327365524e-268,
+        "Group Var": 3.384434469144132e-268
+      }
+    },
+    "model_0indexed": {
+      "fixed_effects": {
+        "Intercept": 8.91385828944707,
+        "C(coi_cohort, Treatment('Low COI'))[T.High COI]": 0.0031240919758863364,
+        "C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": -0.003659755209393439,
+        "trial_0": 0.008565148123523898,
+        "trial_0:C(coi_cohort, Treatment('Low COI'))[T.High COI]": -0.1728578670630788,
+        "trial_0:C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": -0.07066770117538042,
+        "Group Var": 0.8535822929338754
+      },
+      "standard_errors": {
+        "Intercept": 0.007679131276724399,
+        "C(coi_cohort, Treatment('Low COI'))[T.High COI]": 0.009177864359069553,
+        "C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": 0.009907641268004032,
+        "trial_0": 0.0015640992884565959,
+        "trial_0:C(coi_cohort, Treatment('Low COI'))[T.High COI]": 0.0018693639418671914,
+        "trial_0:C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": 0.0020180062169975637,
+        "Group Var": 0.024396192358391265
+      },
+      "z_values": {
+        "Intercept": 1160.7899342032547,
+        "C(coi_cohort, Treatment('Low COI'))[T.High COI]": 0.340394219576705,
+        "C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": -0.36938713366745907,
+        "trial_0": 5.4760897768681405,
+        "trial_0:C(coi_cohort, Treatment('Low COI'))[T.High COI]": -92.46881422695134,
+        "trial_0:C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": -35.01857456144087,
+        "Group Var": 34.98834081951641
+      },
+      "p_values": {
+        "Intercept": 0.0,
+        "C(coi_cohort, Treatment('Low COI'))[T.High COI]": 0.7335596711895198,
+        "C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": 0.7118391867930689,
+        "trial_0": 4.348271424896202e-08,
+        "trial_0:C(coi_cohort, Treatment('Low COI'))[T.High COI]": 0.0,
+        "trial_0:C(coi_cohort, Treatment('Low COI'))[T.Moderate COI]": 1.1735566208687114e-268,
+        "Group Var": 3.384434469143363e-268
+      }
+    },
+    "predicted_latency_high_coi_trial6_seconds": 3.2797378904108125,
+    "empirical_latency_high_coi_trial6_seconds": 3.431342053307009,
+    "b_trial_high_coi_interaction": -0.17285786706260223,
+    "p_trial_high_coi_interaction": 0.0
+  }
+}
